@@ -385,7 +385,7 @@ Reranker → 精排
 
 ---
 
-# 9. Hybrid Search ⭐⭐
+# 9. Hybrid Search（混合查询） ⭐⭐
 
 纯 Vector Search 有时候不够。
 
